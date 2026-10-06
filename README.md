@@ -22,7 +22,7 @@ The notebooks are based on the provided reference Colabs and have been executed 
 
 | # | Topic | Notebook | Video Walkthrough |
 |---|---|---|---|
-| 01 | K-Means and Variations | [01_kmeans_and_variations.ipynb](notebooks/01_kmeans_and_variations.ipynb) | [YouTube Video](YOUTUBE_LINK_01) |
+| 01 | K-Means and Variations | [01_kmeans_and_variations.ipynb](notebooks/01_kmeans_and_variations.ipynb) | https://www.youtube.com/watch?v=dfyV5QU8w90 |
 | 02 | AutoGluon Capabilities Tour | [02_autogluon_capabilities_tour.ipynb](notebooks/02_autogluon_capabilities_tour.ipynb) | [YouTube Video](YOUTUBE_LINK_02) |
 | 03 | AutoGluon End-to-End ML and Metrics | [03_autogluon_end_to_end_ml.ipynb](notebooks/03_autogluon_end_to_end_ml.ipynb) | [YouTube Video](YOUTUBE_LINK_03) |
 | 04 | NVIDIA RAPIDS - GPU vs CPU | [04_rapids_gpu_vs_cpu.ipynb](notebooks/04_rapids_gpu_vs_cpu.ipynb) | [YouTube Video](YOUTUBE_LINK_04) |
