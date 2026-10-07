@@ -63,7 +63,7 @@ Some notebooks require different Python and package environments because their d
 
 The notebook setup and dependency requirements are documented within the notebooks themselves.
 
-For the submitted work, each notebook was run in my own environment and checked for successful execution while preserving the structure and intent of the provided reference notebook.
+For the submitted work, notebooks 03, 04 and 05 was run in my own environment and checked for successful execution while preserving the structure and intent of the provided reference notebook. The rest are (01, 02 and 03) executed in Colab.
 
 ## Video Walkthroughs
 
