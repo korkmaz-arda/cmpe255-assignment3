@@ -27,7 +27,7 @@ The notebooks are based on the provided reference Colabs and have been executed 
 | 03 | AutoGluon End-to-End ML and Metrics | [03_autogluon_end_to_end_ml.ipynb](notebooks/03_autogluon_end_to_end_ml.ipynb) | https://youtu.be/fMrLvJsRI70 |
 | 04 | NVIDIA RAPIDS - GPU vs CPU | [04_rapids_gpu_vs_cpu.ipynb](notebooks/04_rapids_gpu_vs_cpu.ipynb) | https://youtu.be/UkOaHgBxeS0 |
 | 05 | PyCaret Capabilities Tour | [05_pycaret_capabilities_tour.ipynb](notebooks/05_pycaret_capabilities_tour.ipynb) | https://youtu.be/16UfwSMaHH4 |
-| 06 | PyCaret MLOps End-to-End | [06_pycaret_mlops_end_to_end.ipynb](notebooks/06_pycaret_mlops_end_to_end.ipynb) | [YouTube Video](YOUTUBE_LINK_06) |
+| 06 | PyCaret MLOps End-to-End | [06_pycaret_mlops_end_to_end.ipynb](notebooks/06_pycaret_mlops_end_to_end.ipynb) | https://youtu.be/S6iISrQTIoQ |
 
 ## Topics Covered
 
